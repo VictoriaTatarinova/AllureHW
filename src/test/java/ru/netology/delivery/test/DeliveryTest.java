@@ -4,8 +4,8 @@ import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.Configuration;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.Keys;
-import ru.netology.delivery.data.DataGenerator;
-import ru.netology.delivery.data.UserInfo;
+import ru.netology.data.DataGenerator;
+import ru.netology.data.UserInfo;
 
 import java.time.Duration;
 
