@@ -7,6 +7,7 @@ import com.codeborne.selenide.logevents.SelenideLogger;
 import io.qameta.allure.selenide.AllureSelenide;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
+
 import org.openqa.selenium.Keys;
 import ru.netology.data.DataGenerator;
 import ru.netology.data.UserInfo;
